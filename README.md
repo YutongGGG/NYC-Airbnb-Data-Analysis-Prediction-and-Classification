@@ -5,5 +5,3 @@ This project focuses on exploring, predicting, and classifying various aspects o
 - https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
 - https://www.kaggle.com/datasets/evrial97/nypd-complaint-data-historiccsv
 - https://www.kaggle.com/datasets/new-york-state/nys-nyc-transit-subway-entrance-and-exit-data
-
-For a detailed overview of this project, please refer to ./slides.pdf.
